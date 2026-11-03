@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.db
+backend/screenshots/*
+!backend/screenshots/.gitkeep
+backend/.env
+node_modules/
+dist/
